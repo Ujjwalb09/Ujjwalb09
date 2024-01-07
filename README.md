@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝🏻</h3>
 <p align="left">
 <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
