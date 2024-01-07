@@ -4,7 +4,6 @@
 </a>
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
 
