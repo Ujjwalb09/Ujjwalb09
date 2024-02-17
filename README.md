@@ -53,3 +53,13 @@
 </div>
 
 <br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
+</div>
+
+<br/>
