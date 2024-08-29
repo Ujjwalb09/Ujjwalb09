@@ -12,11 +12,11 @@
 
 🔭 I’m currently working on **My side projects**
 
-🌱 I’m currently learning **MERN stack**
+🌱 I’m currently learning **Typescript**
 
 👯 I’m looking to collaborate on **Interesting open source projects**
 
-💬 Ask me about **Java, SpringBoot, Express**
+💬 Ask me about **MERN stack**
 
 📫 How to reach me? **Drop me an email at ujjwalbhatt09@gmail.com**
 
@@ -27,7 +27,6 @@
 <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
 <a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=light" alt="_ujjwalbhatt" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="40" width="40" /></a>
 </p>
 
 <hr/>
