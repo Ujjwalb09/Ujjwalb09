@@ -18,7 +18,7 @@
 
 💬 Ask me about **MERN stack**
 
-📫 How to reach me? **Drop me an email at ujjwalbhatt09@gmail.com**
+📫 How to reach me? **Drop me an email at ujjwal.js.dev@gmail.com**
 
 ⚡ Fun fact **Debugging was coined after removing bugs from computer hardware.**
 
@@ -27,6 +27,10 @@
 <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
 <a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=light" alt="_ujjwalbhatt" height="40" width="40" /></a>
+<a href="mailto:ujjwal.js.dev@gmail.com" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="_ujjwalbhatt" height="40" width="40" />
+</a>
+
 </p>
 
 <hr/>
