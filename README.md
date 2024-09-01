@@ -40,7 +40,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,mysql&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,bootstrap,react,firebase,tailwind,nextjs,linux&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma,hibernate,idea&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma,hibernate,idea,redux&theme=dark" /><br>
 </div>
 
 
