@@ -49,7 +49,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-         <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalb09&count_private=false&border_radius=10&theme=react" alt="streak stats"/>
+<!--          <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ujjwalb09&count_private=false&border_radius=10&theme=react" alt="streak stats"/> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ujjwalb09&theme=react" />  -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en&rank_icon=github&border_radius=10&theme=react" alt="readme stats" /> 
     <br>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalb09&show_icons=true&locale=en&layout=compact&border_radius=10&theme=react" alt="top langs" />
